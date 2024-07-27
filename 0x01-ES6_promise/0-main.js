@@ -1,5 +1,4 @@
-export default function getResponseFromAPI() {
-  return new Promise((resolve) => {
-    resolve();
-  });
-}
+import getResponseFromAPI from './0-promise';
+
+const response = getResponseFromAPI();
+console.log(response instanceof Promise);
