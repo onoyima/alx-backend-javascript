@@ -1,4 +1,4 @@
-# TypeScript Project
+# TypeScript Project by Boniface Onoyima
 
 This project is a TypeScript learning exercise with multiple tasks. Each task builds upon the previous one, adding new functionality and exploring different features of TypeScript.
 
